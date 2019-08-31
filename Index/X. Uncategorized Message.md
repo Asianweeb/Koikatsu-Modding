@@ -33,3 +33,7 @@ https://discordapp.com/channels/447114928785063977/447116603591622666/5500371704
 ### Introduction to usual Unity Toon Shader by xm007#5145(Discord):
 
 https://discordapp.com/channels/447114928785063977/447116603591622666/593754867734937620
+
+### How to merge separate parts by Creamstar:
+
+https://discordapp.com/channels/447114928785063977/447116603591622666/617365507602907162
